@@ -1,1 +1,1 @@
-# data_bricks_azure_code_along
+# Code along for Databricks and Azure course
